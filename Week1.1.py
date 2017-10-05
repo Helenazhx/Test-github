@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 05 16:41:40 2017
-
+All code can be implement in Python2
 @author: szsyz
 """
 
